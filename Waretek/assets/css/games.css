@@ -1,0 +1,21 @@
+.gamelinks > li{
+	display: inline;
+
+}
+.gamelinks > li > a{
+	padding: 20px;
+	text-decoration: none;
+	font-size: 20px;
+}
+#gamenav{
+	margin-top: 2%;
+	 width: 100%;
+	 height: 30px;
+	text-align: center;
+}
+
+#gamescon{
+	width: 100%;
+	height: 100px;
+	background: rgba(178, 178, 178, 1);
+} 
